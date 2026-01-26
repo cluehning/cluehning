@@ -22,9 +22,3 @@ A simple HTML demo and Python scripts created for my seminar presentation. Inspi
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/cheyenne-m-l%C3%BChning/) • [GitHub](https://github.com/cluehning)
-
----
-
-### Fun Fact
-The Mandelbrot set’s boundary has **Hausdorff dimension 2**—as “big” as a plane, yet infinitely thin and infinitely detailed.
-
