@@ -2,8 +2,8 @@
 
 ## About Me
 Mathematics undergraduate exploring **data visualization**, **neural networks**, and **computational models**.  
-Passionate about **Game Theory**, **Fractals**, and the beauty of mathematical structures.  
-Currently working with **Python**, **JavaScript**, and interactive web technologies.
+Passionate about **Brain Computer Interfaces (BCI)**, **Game Theory**, and the beauty of mathematical structures.  
+Currently working with **Python** and **C++**.
 
 ---
 
