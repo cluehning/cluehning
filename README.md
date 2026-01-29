@@ -7,7 +7,8 @@ Currently working with **Python** and **C++**.
 
 ---
 
-## Projects
+## Current Projects
+I’ve committed, alongside my studies, to vibecoding one project per month. My current work focuses on:
 - **Fractals** – Mandelbrot & Julia sets from my seminar *Streifzüge durch die Mathematik*  
 - **Game Theory** – Strategic models and simulations  
 - **Math Experiments** – Code that connects theory with practice  
