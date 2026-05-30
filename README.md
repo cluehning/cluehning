@@ -2,7 +2,7 @@
 
 ## About Me
 Mathematics undergraduate exploring **data visualization**, **neural networks**, and **computational models**.  
-Passionate about **Brain Computer Interfaces (BCI)**, **Game Theory**, and the beauty of mathematical structures.  
+I’m passionate about using mathematics and computation to model complex systems — from global dynamics to abstract structures — and turning theory into working simulations. 
 Currently working with **Python** and **C++**.
 
 ---
