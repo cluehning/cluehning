@@ -6,7 +6,6 @@ I’m interested in how abstract mathematical structures become **working simula
 
 Currently building with **Python**, **C++**, and **OpenGL**, and always vibecoding something new.
 
----
 
 ## 🛠️ Competencies
 
@@ -25,7 +24,7 @@ Currently building with **Python**, **C++**, and **OpenGL**, and always vibecodi
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 
 </p>
----
+
 
 ## 🔬 Current Projects
 I’ve committed to creating **one project per month**, each sitting at the intersection of mathematics, computation, and biology.
