@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cluehning/cluehning/main/banner.gif" alt="banner" />
+</p>
+
 # Hi, I'm Cheyenne 👋
 
 ## 🧠 About Me
