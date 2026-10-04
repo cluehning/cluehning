@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Optional animated banner -->
-  <!-- <img src="https://raw.githubusercontent.com/cluehning/cluehning/main/banner.gif" alt="animated banner" /> -->
-</p>
-
 # Hi, I'm Cheyenne 👋
 
 ## 🧠 About Me
