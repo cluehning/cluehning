@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/cluehning/cluehning/main/banner.gif" alt="banner" />
 </p>
 
-# Hi, I'm Cheyenne 👋
-
-## 🧠 About Me
+## About Me
 Mathematics undergraduate exploring **data visualization**, **neural networks**, and **computational models**.  
 I’m fascinated by how abstract mathematical structures become **working simulations** — from quantum systems to genomic signal geometry.
 
@@ -13,7 +11,7 @@ Open to feedback, discussion, and collaboration on mathematically or biologicall
 
 ---
 
-## 🛠️ Competencies (Dark‑Mode)
+## Competencies (Dark‑Mode)
 <p align="left">
 
   <!-- C++ -->
@@ -32,7 +30,7 @@ Open to feedback, discussion, and collaboration on mathematically or biologicall
 
 ---
 
-## 🔬 Current Projects
+## Current Projects
 I’ve committed to creating **one project per month**, each sitting at the intersection of mathematics, computation, and biology.
 
 ### 🧪 [Atom Simulation](https://github.com/cluehning/juli_atoms)
