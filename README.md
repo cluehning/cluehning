@@ -4,7 +4,8 @@
 Mathematics undergraduate exploring **data visualization**, **neural networks**, and **computational models**.  
 I’m fascinated by how abstract mathematical structures become **working simulations** — from quantum systems to genomic signal geometry.
 
-Currently building with **Python**, **C++**, **OpenGL**, and always vibecoding something new.
+Currently building with Python, C++, OpenGL, and learning to code alongside AI‑agents.
+Open to feedback, discussion, and collaboration on mathematically or biologically inspired projects.
 
 ---
 
