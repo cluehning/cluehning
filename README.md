@@ -8,6 +8,25 @@ Currently building with **Python**, **C++**, and **OpenGL**, and always vibecodi
 
 ---
 
+## 🛠️ Competencies
+
+<p align="left">
+
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Jupyter -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+  <!-- MATLAB -->
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+</p>
+---
+
 ## 🔬 Current Projects
 I’ve committed to creating **one project per month**, each sitting at the intersection of mathematics, computation, and biology.
 
